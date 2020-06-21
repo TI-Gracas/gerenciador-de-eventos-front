@@ -1,6 +1,8 @@
 import React from 'react'
 
+import Header from '../components/templates/Header'
+
 export default () => 
-    <h1>
-        Hello, World!
-    </h1>
+    <>
+        <Header />
+    </>
