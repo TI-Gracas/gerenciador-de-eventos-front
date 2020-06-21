@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    background-color: #436ABD;
+    color: #FFF;
+}
+
+.footer span:first-child {
+    font-size: 0.9rem;
+    font-weight: bold;
+}
