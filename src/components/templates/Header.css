@@ -1,0 +1,29 @@
+.header {
+    background-color: #363885;
+    color: #FFF;
+    min-width: max-content;
+}
+
+.header-logo {
+    float: left;
+}
+
+.header-info {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header-info h1 {
+    font-size: 1.6rem;
+    margin-bottom: 0.25rem;
+}
+
+.header-info h2 {
+    margin-top: 0;
+    margin-bottom: 0.25rem;
+}
+
+.header-info > span {
+    font-size: 0.9rem;
+}
