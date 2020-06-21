@@ -2,6 +2,8 @@
     background-color: #436ABD;
     color: #FFF;
     min-width: max-content;
+    box-shadow: 0px 7px 6px -6px rgba(0,0,0,0.75);
+    z-index: 1;
 }
 
 .header-logo {
@@ -15,13 +17,15 @@
 }
 
 .header-info h1 {
-    font-size: 1.6rem;
+    font-size: 1.9rem;
     margin-bottom: 0.25rem;
+    font-weight: normal;
 }
 
 .header-info h2 {
     margin-top: 0;
     margin-bottom: 0.25rem;
+    font-weight: normal;
 }
 
 .header-info > span {
