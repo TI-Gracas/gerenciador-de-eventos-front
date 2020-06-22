@@ -1,0 +1,14 @@
+.card {
+    margin: 10px;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.bg-white {
+    background-color: #FFF;
+}
+
+.bg-blue {
+    background-color: #363885;
+    color: white;
+}
